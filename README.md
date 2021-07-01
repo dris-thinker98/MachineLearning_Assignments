@@ -1,4 +1,5 @@
 # ML_Assignments
+Check the assignment reports for more details on the questions and the code implementation result analysis 
 ## Assignment 1
 1. TSNE on dataset 1 <br>
 2. Grid search technique on Decision Tree Classifier on dataset 2
