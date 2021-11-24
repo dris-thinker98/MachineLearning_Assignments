@@ -1,4 +1,4 @@
-# ML_Assignments
+# MachineLearning_Assignments
 Check the assignment reports for more details on the questions and the code implementation result analysis 
 ## Assignment 1
 1. TSNE on dataset 1 <br>
